@@ -32,6 +32,11 @@ build/
 *.log
 npm-debug.log*
 
+# PyInstaller
+*.spec.backup
+*.manifest
+*.exe.config
+
 # OS
 .DS_Store
 Thumbs.db
